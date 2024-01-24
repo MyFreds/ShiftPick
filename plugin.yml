@@ -1,0 +1,6 @@
+name: ShiftPick
+main: Fred\ShiftPick
+version: 1.0.0
+api: 5.0.0
+author: Fred
+description: Allows players to quickly and easily pick up blocks using the shift key
