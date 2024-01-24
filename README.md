@@ -14,7 +14,7 @@
   <p align="center">
     Allows players to quickly and easily pick up blocks using the shift key
 
-[View in Poggit](https://poggit.pmmp.io/ci/MyFreds/ShiftPick/ShiftPick) · [Report a bug](https://github.com/MyFreds/ShiftPick/issues) · [Request a feature][https://github.com/MyFreds/ShiftPick/issues]
+[View in Poggit](https://poggit.pmmp.io/ci/MyFreds/ShiftPick/ShiftPick) · [Report a bug](https://github.com/MyFreds/ShiftPick/issues) · [Request a feature](https://github.com/MyFreds/ShiftPick/issues)
 
   </p>
 </div>
@@ -24,9 +24,11 @@
 
 # 📌 Features
 
-- Works in console.
-- Invalid player name detection.
-- Customizable message.
+- Fast Block Pickup: Grab blocks instantly with the shift key.
+- Mode Compatibility: Only works in creative mode.
+- Tile Block Additional Data: Include additional data from tile blocks.
+- Player Notification: Message after taking a block.
+- Efficient and Convenient: Improves block picking efficiency.
 
 # 🔁 Installation
 
