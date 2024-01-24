@@ -14,7 +14,7 @@
   <p align="center">
     Allows players to quickly and easily pick up blocks using the shift key
 
-[View in Poggit][https://poggit.pmmp.io/ci/MyFreds/ShiftPick/ShiftPick] · [Report a bug][https://github.com/MyFreds/ShiftPick/issues] · [Request a feature][https://github.com/MyFreds/ShiftPick/issues]
+[View in Poggit](https://poggit.pmmp.io/ci/MyFreds/ShiftPick/ShiftPick) · [Report a bug](https://github.com/MyFreds/ShiftPick/issues) · [Request a feature][https://github.com/MyFreds/ShiftPick/issues]
 
   </p>
 </div>
