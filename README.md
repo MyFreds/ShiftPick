@@ -38,4 +38,4 @@
 4. Done!
 
 # 💻 Software
-- [PocketMine-MP](https://github.com/pmmp/PocketMine-MP\releases)
+- [PocketMine-MP](https://github.com/pmmp/PocketMine-MP/releases)
