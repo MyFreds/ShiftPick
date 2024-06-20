@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Fred;
+namespace Fred\ShiftPick;
 
 use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerInteractEvent;
@@ -14,7 +14,7 @@ use pocketmine\plugin\PluginBase;
 use pocketmine\player\Player;
 use pocketmine\player\GameMode;
 
-class ShiftPick extends PluginBase implements Listener {
+class Main extends PluginBase implements Listener {
 
     public function onEnable() : void {
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
@@ -46,7 +46,5 @@ class ShiftPick extends PluginBase implements Listener {
         $player->getInventory()->addItem($pickedItem);
 
         $event->cancel();
-
-        $player->sendTip("[^] You picked up a " . $blockClicked->getName());
     }
 }
